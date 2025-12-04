@@ -1,0 +1,14 @@
+sample_id,molecule_h5
+CRPC1,/beegfs/scratch/ric.cosr/tascini.annasofia/BelloneM_1435_Neuroendocrine_TCGA/data/CRPC1/molecule_info.h5
+PCa2_benign_CD49L,/beegfs/scratch/ric.cosr/tascini.annasofia/BelloneM_1435_Neuroendocrine_TCGA/data/PCa2_benign_CD49L/molecule_info.h5
+CRPC2_CD49L,/beegfs/scratch/ric.cosr/tascini.annasofia/BelloneM_1435_Neuroendocrine_TCGA/data/CRPC2_CD49L/molecule_info.h5
+CRPC2_CD49H,/beegfs/scratch/ric.cosr/tascini.annasofia/BelloneM_1435_Neuroendocrine_TCGA/data/CRPC2_CD49H/molecule_info.h5
+PCa2_benign_CD49H,/beegfs/scratch/ric.cosr/tascini.annasofia/BelloneM_1435_Neuroendocrine_TCGA/data/PCa2_benign_CD49H/molecule_info.h5
+PCa1_tumor_CD49H,/beegfs/scratch/ric.cosr/tascini.annasofia/BelloneM_1435_Neuroendocrine_TCGA/data/PCa1_tumor_CD49H/molecule_info.h5
+PCa2_tumor_CD49L,/beegfs/scratch/ric.cosr/tascini.annasofia/BelloneM_1435_Neuroendocrine_TCGA/data/PCa2_tumor_CD49L/molecule_info.h5
+CRPC3,/beegfs/scratch/ric.cosr/tascini.annasofia/BelloneM_1435_Neuroendocrine_TCGA/data/CRPC3/molecule_info.h5
+PCa3_benign,/beegfs/scratch/ric.cosr/tascini.annasofia/BelloneM_1435_Neuroendocrine_TCGA/data/PCa3_benign/molecule_info.h5
+PCa1_tumor_CD49L,/beegfs/scratch/ric.cosr/tascini.annasofia/BelloneM_1435_Neuroendocrine_TCGA/data/PCa1_tumor_CD49L/molecule_info.h5
+PCa2_tumor_CXCR2,/beegfs/scratch/ric.cosr/tascini.annasofia/BelloneM_1435_Neuroendocrine_TCGA/data/PCa2_tumor_CXCR2/molecule_info.h5
+PCa2_benign_CXCR2,/beegfs/scratch/ric.cosr/tascini.annasofia/BelloneM_1435_Neuroendocrine_TCGA/data/PCa2_benign_CXCR2/molecule_info.h5
+PCa3_tumor,/beegfs/scratch/ric.cosr/tascini.annasofia/BelloneM_1435_Neuroendocrine_TCGA/data/PCa3_tumor/molecule_info.h5
